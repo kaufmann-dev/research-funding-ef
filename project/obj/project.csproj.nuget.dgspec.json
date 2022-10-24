@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fächer\\SEW - Softwareentwickung\\project\\project\\project.csproj": {}
+    "G:\\Meine Ablage\\School\\HTL Krems\\3AHIT 9 20-6 21\\SEW\\project\\project\\project.csproj": {}
   },
   "projects": {
-    "D:\\Fächer\\SEW - Softwareentwickung\\project\\project\\project.csproj": {
+    "G:\\Meine Ablage\\School\\HTL Krems\\3AHIT 9 20-6 21\\SEW\\project\\project\\project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fächer\\SEW - Softwareentwickung\\project\\project\\project.csproj",
+        "projectUniqueName": "G:\\Meine Ablage\\School\\HTL Krems\\3AHIT 9 20-6 21\\SEW\\project\\project\\project.csproj",
         "projectName": "project",
-        "projectPath": "D:\\Fächer\\SEW - Softwareentwickung\\project\\project\\project.csproj",
+        "projectPath": "G:\\Meine Ablage\\School\\HTL Krems\\3AHIT 9 20-6 21\\SEW\\project\\project\\project.csproj",
         "packagesPath": "C:\\Users\\serbi\\.nuget\\packages\\",
-        "outputPath": "D:\\Fächer\\SEW - Softwareentwickung\\project\\project\\obj\\",
+        "outputPath": "G:\\Meine Ablage\\School\\HTL Krems\\3AHIT 9 20-6 21\\SEW\\project\\project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\serbi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -63,7 +63,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -72,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
